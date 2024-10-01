@@ -5,6 +5,7 @@
       Country.
     </h2>
     <h2>Go Amit Go To America.</h2>
-    <a href=".\index.jsp" target="_blank">Click Here To See Your Goal.</a>
+    <h2>Go Amit Go To America.</h2>
+    <a href="index.jsp" target="_blank">Click Here To See Your Goal.</a>
   </body>
 </html>
